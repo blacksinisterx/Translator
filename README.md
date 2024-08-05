@@ -8,7 +8,6 @@ This project involves building a language translation tool using the `langdetect
 
 - [Project Description](#project-description)
 - [Features](#features)
-- [Usage](#usage)
 - [Notebook Version](#notebook-version)
 - [GUI Version](#gui-version)
 - [Contributing](#contributing)
@@ -24,29 +23,6 @@ Language translation tools are essential for breaking down communication barrier
 - Translate text into the desired target language using `EasyGoogleTranslate`.
 - Interactive GUI for user-friendly translation experience.
 
-
-
-## Usage
-
-### Notebook Version
-
-1. Open the Jupyter notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-2. Navigate to `language_translation_notebook.ipynb` and run the cells to test the language detection and translation functionalities.
-
-### GUI Version
-
-1. Run the Tkinter-based GUI application:
-   ```bash
-   python gui_translation_tool.py
-   ```
-
-2. Enter the text you want to translate in the input field.
-3. Select the target language from the dropdown menu.
-4. Click the "Translate" button to get the translated text.
 
 ## Notebook Version
 
